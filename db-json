@@ -1,0 +1,39 @@
+[
+  {
+    "id": 123,
+    "title": "ICT-294",
+    "description": "Réaliser le front-end d'une application web interactive",
+    "teachers": [
+      "FAO"
+    ]
+  },
+  {
+    "id": 456,
+    "title": "ICT-426",
+    "description": "Développer un logiciel avec des méthodes agiles",
+    "teachers": [
+      "CVL",
+      "CHA"
+    ]
+  },
+  {
+    "id": 789,
+    "title": "ICT-295",
+    "description": "Réaliser le backend pour des applications",
+    "teachers": [
+      "LVT",
+      "JHD",
+      "FAO"
+    ]
+  },
+  {
+    "id": 246,
+    "title": "ICT-106",
+    "description": "Interroger, traiter et assurer la maintenance des bases de données",
+    "teachers": [
+      "RFA",
+      "FAO",
+      "JCY"
+    ]
+  }
+]
